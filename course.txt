@@ -1,1 +1,1 @@
-cse
+Course Name: Computer Science
